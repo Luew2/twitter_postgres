@@ -1,3 +1,6 @@
+# FORGOT TO POST OK SAKAI, I DID THIS WORKING WITH ADI!
+
+
 # Twitter in Postgres
 [![](https://github.com/Luew2/twitter_postgres/workflows/tests_denormalized/badge.svg)](https://github.com/mikeizbicki/twitter_postgres/actions?query=workflow%3Atests)
 [![](https://github.com/Luew2/twitter_postgres/workflows/tests_normalized/badge.svg)](https://github.com/mikeizbicki/twitter_postgres/actions?query=workflow%3Atests)
